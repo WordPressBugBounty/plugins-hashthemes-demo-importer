@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HashThemes Demo Importer\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-03 05:10+0000\n"
+"POT-Creation-Date: 2024-07-06 15:52+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: \n"
@@ -15,39 +15,39 @@ msgstr ""
 "X-Generator: Loco https://localise.biz/\n"
 "X-Loco-Version: 2.3.1; wp-5.3.2"
 
-#: wordpress-importer/class-wp-import.php:645
+#: wordpress-importer/class-wp-import.php:643
 #, php-format
 msgid "%s &#8220;%s&#8221; already exists."
 msgstr ""
 
-#: wordpress-importer/class-wp-import.php:306
+#: wordpress-importer/class-wp-import.php:305
 msgid "- Select -"
 msgstr ""
 
-#: wordpress-importer/class-wp-import.php:1298
+#: wordpress-importer/class-wp-import.php:1285
 #, php-format
 msgid ""
 "A new version of this importer is available. Please update to version %s to "
 "ensure compatibility with newer export files."
 msgstr ""
 
-#: classes/class-demo-importer.php:129
+#: classes/class-demo-importer.php:126
 msgid "Activate"
 msgstr ""
 
-#: hashthemes-demo-importer.php:444
+#: hashthemes-demo-importer.php:439
 msgid "Activating required plugins"
 msgstr ""
 
-#: hashthemes-demo-importer.php:191 hashthemes-demo-importer.php:210
+#: hashthemes-demo-importer.php:186 hashthemes-demo-importer.php:205
 msgid "All"
 msgstr ""
 
-#: hashthemes-demo-importer.php:516
+#: hashthemes-demo-importer.php:511
 msgid "All content imported"
 msgstr ""
 
-#: hashthemes-demo-importer.php:486
+#: hashthemes-demo-importer.php:481
 msgid "All demo files downloaded"
 msgstr ""
 
@@ -55,19 +55,19 @@ msgstr ""
 msgid "All done."
 msgstr ""
 
-#: hashthemes-demo-importer.php:1168
+#: hashthemes-demo-importer.php:1134
 msgid "All done. Have fun!"
 msgstr ""
 
-#: hashthemes-demo-importer.php:305
+#: hashthemes-demo-importer.php:300
 msgid "All in one migration"
 msgstr ""
 
-#: hashthemes-demo-importer.php:463
+#: hashthemes-demo-importer.php:458
 msgid "All the required plugins activated"
 msgstr ""
 
-#: hashthemes-demo-importer.php:436
+#: hashthemes-demo-importer.php:431
 msgid "All the required plugins installed"
 msgstr ""
 
@@ -83,57 +83,49 @@ msgstr ""
 msgid "assign posts to an existing user:"
 msgstr ""
 
-#: hashthemes-demo-importer.php:268
+#: hashthemes-demo-importer.php:263
 msgid "Buy Now"
 msgstr ""
 
-#: hashthemes-demo-importer.php:369
+#: hashthemes-demo-importer.php:364
 msgid "Cancel"
 msgstr ""
 
-#: hashthemes-demo-importer.php:351
+#: hashthemes-demo-importer.php:346
 msgid ""
 "Check this option if importing demo fails multiple times. Excluding image "
 "will make the demo import process super quick."
 msgstr ""
 
-#: wordpress-importer/class-wp-import.php:1314
+#: wordpress-importer/class-wp-import.php:1301
 msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
 msgstr ""
 
-#: hashthemes-demo-importer.php:746
-msgid "Completed"
-msgstr ""
-
-#: hashthemes-demo-importer.php:702 hashthemes-demo-importer.php:730
-msgid "Completing Final Settings"
-msgstr ""
-
-#: wordpress-importer/class-wp-import.php:1019
+#: wordpress-importer/class-wp-import.php:1008
 msgid "Could not create temporary file."
 msgstr ""
 
-#: hashthemes-demo-importer.php:544
+#: hashthemes-demo-importer.php:539
 msgid "Customizer settings imported"
 msgstr ""
 
-#: hashthemes-demo-importer.php:411
+#: hashthemes-demo-importer.php:406
 msgid "Database reset complete"
 msgstr ""
 
-#: hashthemes-demo-importer.php:1166
+#: hashthemes-demo-importer.php:1132
 msgid "Database was not reset"
 msgstr ""
 
-#: hashthemes-demo-importer.php:491
+#: hashthemes-demo-importer.php:486
 msgid "Demo import process failed. Demo files can not be downloaded"
 msgstr ""
 
-#: hashthemes-demo-importer.php:521
+#: hashthemes-demo-importer.php:516
 msgid "Demo import process failed. No content file found"
 msgstr ""
 
-#: hashthemes-demo-importer.php:377
+#: hashthemes-demo-importer.php:372
 msgid "Demo Import Progress"
 msgstr ""
 
@@ -147,11 +139,11 @@ msgstr ""
 msgid "Download and import file attachments"
 msgstr ""
 
-#: wordpress-importer/class-wp-import.php:1074
+#: wordpress-importer/class-wp-import.php:1061
 msgid "Downloaded file has incorrect size"
 msgstr ""
 
-#: hashthemes-demo-importer.php:471
+#: hashthemes-demo-importer.php:466
 msgid "Downloading demo files"
 msgstr ""
 
@@ -159,8 +151,8 @@ msgstr ""
 msgid "Easily imports demo with just one click."
 msgstr ""
 
-#: classes/class-demo-importer.php:162 classes/class-demo-importer.php:212
-#: classes/class-demo-importer.php:260
+#: classes/class-demo-importer.php:159 classes/class-demo-importer.php:209
+#: classes/class-demo-importer.php:257
 msgid "Error - unable to verify nonce, please try again."
 msgstr ""
 
@@ -177,33 +169,33 @@ msgid ""
 "theme."
 msgstr ""
 
-#: classes/class-demo-importer.php:273
+#: classes/class-demo-importer.php:270
 msgid "Error!! Plugin not activated."
 msgstr ""
 
-#: hashthemes-demo-importer.php:350
+#: hashthemes-demo-importer.php:345
 msgid "Exclude Images"
 msgstr ""
 
-#: wordpress-importer/class-wp-import.php:361
+#: wordpress-importer/class-wp-import.php:359
 #, php-format
 msgid ""
 "Failed to create new user for %s. Their posts will be attributed to the "
 "current user."
 msgstr ""
 
-#: wordpress-importer/class-wp-import.php:516
-#: wordpress-importer/class-wp-import.php:749
+#: wordpress-importer/class-wp-import.php:514
+#: wordpress-importer/class-wp-import.php:738
 #, php-format
 msgid "Failed to import %s %s"
 msgstr ""
 
-#: wordpress-importer/class-wp-import.php:716
+#: wordpress-importer/class-wp-import.php:705
 #, php-format
 msgid "Failed to import %s &#8220;%s&#8221;"
 msgstr ""
 
-#: wordpress-importer/class-wp-import.php:609
+#: wordpress-importer/class-wp-import.php:607
 #, php-format
 msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
 msgstr ""
@@ -215,36 +207,36 @@ msgid ""
 "user."
 msgstr ""
 
-#: wordpress-importer/class-wp-import.php:414
+#: wordpress-importer/class-wp-import.php:412
 #, php-format
 msgid "Failed to import category %s"
 msgstr ""
 
-#: wordpress-importer/class-wp-import.php:460
+#: wordpress-importer/class-wp-import.php:458
 #, php-format
 msgid "Failed to import post tag %s"
 msgstr ""
 
-#: wordpress-importer/class-wp-import.php:967
+#: wordpress-importer/class-wp-import.php:956
 msgid "Fetching attachments is not enabled"
 msgstr ""
 
-#: hashthemes-demo-importer.php:311
+#: hashthemes-demo-importer.php:306
 msgid ""
 "For your website to look exactly like the demo,the import process will "
 "install and activate the following plugin if they are not installed or "
 "activated."
 msgstr ""
 
-#: hashthemes-demo-importer.php:690
+#: hashthemes-demo-importer.php:683
 msgid "Forms imported"
 msgstr ""
 
-#: hashthemes-demo-importer.php:1168
+#: hashthemes-demo-importer.php:1134
 msgid "Go Back"
 msgstr ""
 
-#: hashthemes-demo-importer.php:686
+#: hashthemes-demo-importer.php:679
 msgid "Hash Form plugin not installed"
 msgstr ""
 
@@ -253,11 +245,11 @@ msgid "hashthemes"
 msgstr ""
 
 #. Name of the plugin
-#: hashthemes-demo-importer.php:99
+#: hashthemes-demo-importer.php:98
 msgid "HashThemes Demo Importer"
 msgstr ""
 
-#: hashthemes-demo-importer.php:160
+#: hashthemes-demo-importer.php:155
 msgid "HashThemes OneClick Demo Importer"
 msgstr ""
 
@@ -265,7 +257,7 @@ msgstr ""
 msgid "Have fun!"
 msgstr ""
 
-#: wordpress-importer/class-wp-import.php:1313
+#: wordpress-importer/class-wp-import.php:1300
 msgid ""
 "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
 "the posts, pages, comments, custom fields, categories, and tags into this "
@@ -296,11 +288,11 @@ msgstr ""
 msgid "Import author:"
 msgstr ""
 
-#: hashthemes-demo-importer.php:368
+#: hashthemes-demo-importer.php:363
 msgid "Import Demo"
 msgstr ""
 
-#: wordpress-importer/class-wp-import.php:1291
+#: wordpress-importer/class-wp-import.php:1278
 msgid "Import WordPress"
 msgstr ""
 
@@ -312,107 +304,111 @@ msgstr ""
 msgid "Imported to Inactive"
 msgstr ""
 
-#: hashthemes-demo-importer.php:518
+#: hashthemes-demo-importer.php:513
 msgid "Importing customizer settings"
 msgstr ""
 
-#: hashthemes-demo-importer.php:632
+#: hashthemes-demo-importer.php:627
 msgid "Importing Forms"
 msgstr ""
 
-#: hashthemes-demo-importer.php:488
+#: hashthemes-demo-importer.php:483
 msgid "Importing posts, pages and medias. It may take a bit longer time"
 msgstr ""
 
-#: hashthemes-demo-importer.php:699
+#: hashthemes-demo-importer.php:692
 msgid "Importing Revolution slider"
 msgstr ""
 
-#: hashthemes-demo-importer.php:574
+#: hashthemes-demo-importer.php:569
 msgid "Importing theme option settings"
 msgstr ""
 
-#: hashthemes-demo-importer.php:607
+#: hashthemes-demo-importer.php:602
 msgid "Importing widgets"
 msgstr ""
 
-#: hashthemes-demo-importer.php:272 classes/class-demo-importer.php:125
+#: hashthemes-demo-importer.php:267 classes/class-demo-importer.php:122
 msgid "Install"
 msgstr ""
 
-#: classes/class-demo-importer.php:133
+#: classes/class-demo-importer.php:130
 msgid "Installed"
 msgstr ""
 
-#: hashthemes-demo-importer.php:1141
+#: hashthemes-demo-importer.php:1107
 msgid "Installed and Active"
 msgstr ""
 
-#: hashthemes-demo-importer.php:1145
+#: hashthemes-demo-importer.php:1111
 msgid "Installed but Not Active"
 msgstr ""
 
-#: hashthemes-demo-importer.php:417
+#: hashthemes-demo-importer.php:412
 msgid "Installing required plugins"
 msgstr ""
 
-#: wordpress-importer/class-wp-import.php:980
+#: wordpress-importer/class-wp-import.php:969
 msgid "Invalid file type"
 msgstr ""
 
-#: hashthemes-demo-importer.php:361
+#: hashthemes-demo-importer.php:356
 msgid ""
 "It is always recommended to reset the database for a complete demo import."
 msgstr ""
 
-#: hashthemes-demo-importer.php:287
+#: hashthemes-demo-importer.php:282
 msgid ""
 "It looks like the config file for the demos is missing or conatins errors!. "
 "Demo install can't go futher!"
 msgstr ""
 
-#: wordpress-importer/class-wp-import.php:896
+#: wordpress-importer/class-wp-import.php:885
 #, php-format
 msgid "Menu item skipped due to invalid menu slug: %s"
 msgstr ""
 
-#: wordpress-importer/class-wp-import.php:889
+#: wordpress-importer/class-wp-import.php:878
 msgid "Menu item skipped due to missing menu slug"
 msgstr ""
 
-#: hashthemes-demo-importer.php:567
+#: hashthemes-demo-importer.php:562
 msgid "Menus saved"
 msgstr ""
 
-#: classes/class-demo-importer.php:239
+#: classes/class-demo-importer.php:236
 msgid "Missing File Location."
 msgstr ""
 
-#: hashthemes-demo-importer.php:546
+#: hashthemes-demo-importer.php:541
 msgid "No customizer settings found"
 msgstr ""
 
-#: hashthemes-demo-importer.php:692
+#: hashthemes-demo-importer.php:685
 msgid "No Form files found"
 msgstr ""
 
-#: hashthemes-demo-importer.php:569
+#: hashthemes-demo-importer.php:564
 msgid "No menus saved"
 msgstr ""
 
-#: hashthemes-demo-importer.php:465
+#: hashthemes-demo-importer.php:460
 msgid "No plugin required to activate"
 msgstr ""
 
-#: hashthemes-demo-importer.php:438
+#: hashthemes-demo-importer.php:433
 msgid "No plugin required to install"
 msgstr ""
 
-#: hashthemes-demo-importer.php:342
+#: hashthemes-demo-importer.php:337
 msgid "No Required Plugins Found."
 msgstr ""
 
-#: hashthemes-demo-importer.php:602
+#: hashthemes-demo-importer.php:722
+msgid "No Revolution slider found"
+msgstr ""
+
+#: hashthemes-demo-importer.php:597
 msgid "No theme options found"
 msgstr ""
 
@@ -420,15 +416,15 @@ msgstr ""
 msgid "No Title"
 msgstr ""
 
-#: hashthemes-demo-importer.php:627
+#: hashthemes-demo-importer.php:622
 msgid "No widgets found"
 msgstr ""
 
-#: hashthemes-demo-importer.php:1137
+#: hashthemes-demo-importer.php:1103
 msgid "Not Installed"
 msgstr ""
 
-#: hashthemes-demo-importer.php:99
+#: hashthemes-demo-importer.php:98
 msgid "OneClick Demo Install"
 msgstr ""
 
@@ -440,11 +436,11 @@ msgstr ""
 msgid "or create new user with login name:"
 msgstr ""
 
-#: hashthemes-demo-importer.php:1164
+#: hashthemes-demo-importer.php:1130
 msgid "Preparing to import demo"
 msgstr ""
 
-#: hashthemes-demo-importer.php:260
+#: hashthemes-demo-importer.php:255
 msgid "Preview"
 msgstr ""
 
@@ -452,66 +448,66 @@ msgstr ""
 msgid "Remember to update the passwords and roles of imported users."
 msgstr ""
 
-#: wordpress-importer/class-wp-import.php:1180
+#: wordpress-importer/class-wp-import.php:1167
 msgid "Remote file is incorrect size"
 msgstr ""
 
-#: wordpress-importer/class-wp-import.php:1080
-#: wordpress-importer/class-wp-import.php:1191
+#: wordpress-importer/class-wp-import.php:1067
+#: wordpress-importer/class-wp-import.php:1178
 #, php-format
 msgid "Remote file is too large, limit is %s"
 msgstr ""
 
-#: wordpress-importer/class-wp-import.php:1062
-#: wordpress-importer/class-wp-import.php:1167
+#: wordpress-importer/class-wp-import.php:1049
+#: wordpress-importer/class-wp-import.php:1154
 msgid "Remote server did not respond"
 msgstr ""
 
-#: wordpress-importer/class-wp-import.php:1173
+#: wordpress-importer/class-wp-import.php:1160
 #, php-format
 msgid "Remote server returned error response %1$d %2$s"
 msgstr ""
 
 #. 1: The HTTP error message. 2: The HTTP error code.
-#: wordpress-importer/class-wp-import.php:1052
+#: wordpress-importer/class-wp-import.php:1039
 #, php-format
 msgid "Remote server returned the following unexpected result: %1$s (%2$s)"
 msgstr ""
 
 #. 1: The WordPress error message. 2: The WordPress error code.
-#: wordpress-importer/class-wp-import.php:1039
+#: wordpress-importer/class-wp-import.php:1026
 #, php-format
 msgid "Request failed due to an error: %1$s (%2$s)"
 msgstr ""
 
-#: hashthemes-demo-importer.php:310
+#: hashthemes-demo-importer.php:305
 msgid "Required Plugins"
 msgstr ""
 
-#: hashthemes-demo-importer.php:359
+#: hashthemes-demo-importer.php:354
 msgid "Reset Website"
 msgstr ""
 
-#: hashthemes-demo-importer.php:1165
+#: hashthemes-demo-importer.php:1131
 msgid "Reseting database"
 msgstr ""
 
-#: hashthemes-demo-importer.php:360
+#: hashthemes-demo-importer.php:355
 msgid ""
 "Reseting the website will delete all your post, pages, custom post types, "
 "categories, taxonomies, images and all other customizer and theme option "
 "settings."
 msgstr ""
 
-#: hashthemes-demo-importer.php:723
+#: hashthemes-demo-importer.php:717
 msgid "Revolution slider installed"
 msgstr ""
 
-#: hashthemes-demo-importer.php:725
+#: hashthemes-demo-importer.php:719
 msgid "Revolution slider plugin not installed"
 msgstr ""
 
-#: hashthemes-demo-importer.php:551
+#: hashthemes-demo-importer.php:546
 msgid "Setting menus"
 msgstr ""
 
@@ -531,11 +527,11 @@ msgstr ""
 msgid "Sorry, there has been an error."
 msgstr ""
 
-#: wordpress-importer/class-wp-import.php:1112
+#: wordpress-importer/class-wp-import.php:1099
 msgid "Sorry, this file type is not permitted for security reasons."
 msgstr ""
 
-#: classes/class-demo-importer.php:147 classes/class-demo-importer.php:196
+#: classes/class-demo-importer.php:144 classes/class-demo-importer.php:193
 msgid "Sorry, you are not allowed to install plugins on this site."
 msgstr ""
 
@@ -554,15 +550,15 @@ msgstr ""
 msgid "The file does not exist, please try again."
 msgstr ""
 
-#: wordpress-importer/class-wp-import.php:1127
+#: wordpress-importer/class-wp-import.php:1114
 msgid "The uploaded file could not be moved"
 msgstr ""
 
-#: hashthemes-demo-importer.php:600
+#: hashthemes-demo-importer.php:595
 msgid "Theme options settings imported"
 msgstr ""
 
-#: hashthemes-demo-importer.php:1167
+#: hashthemes-demo-importer.php:1133
 #, php-format
 msgid ""
 "There was an error in importing demo. Please reload the page and try again. "
@@ -578,12 +574,12 @@ msgstr ""
 #: wordpress-importer/class-wxr-parser-regex.php:96
 #: wordpress-importer/class-wxr-parser-simplexml.php:43
 #: wordpress-importer/class-wxr-parser-simplexml.php:48
-#: wordpress-importer/class-wxr-parser-xml.php:84
+#: wordpress-importer/class-wxr-parser-xml.php:50
 msgid ""
 "This does not appear to be a WXR file, missing/invalid WXR version number"
 msgstr ""
 
-#: hashthemes-demo-importer.php:307
+#: hashthemes-demo-importer.php:302
 msgid ""
 "This process will install all the required plugins, import contents and "
 "setup customizer and theme options."
@@ -603,7 +599,7 @@ msgid ""
 "site, such as your primary administrator account."
 msgstr ""
 
-#: hashthemes-demo-importer.php:305
+#: hashthemes-demo-importer.php:300
 #, php-format
 msgid ""
 "We recommend you backup your website content before attempting to import the "
@@ -619,15 +615,15 @@ msgstr ""
 msgid "Widget data is not available"
 msgstr ""
 
-#: hashthemes-demo-importer.php:625
+#: hashthemes-demo-importer.php:620
 msgid "Widgets imported"
 msgstr ""
 
-#: hashthemes-demo-importer.php:1168
+#: hashthemes-demo-importer.php:1134
 msgid "Your website has been successfully setup."
 msgstr ""
 
-#: wordpress-importer/class-wp-import.php:1069
-#: wordpress-importer/class-wp-import.php:1185
+#: wordpress-importer/class-wp-import.php:1056
+#: wordpress-importer/class-wp-import.php:1172
 msgid "Zero size file downloaded"
 msgstr ""
