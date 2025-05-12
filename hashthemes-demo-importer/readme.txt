@@ -3,7 +3,7 @@ Contributors: hashthemes
 Tags: demo importer, hashthemes, import, one click import
 Requires at least: 6.3
 Tested up to: 6.7
-Stable tag: 1.3.5
+Stable tag: 1.3.6
 Requires PHP: 7.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -39,6 +39,9 @@ The easy way to install the plugin is via WordPress.org plugin directory.
 </ol>
 
 == Frequently Asked Questions ==
+= How can I report security bugs? =
+
+You can report security bugs through the Patchstack Vulnerability Disclosure Program. The Patchstack team help validate, triage and handle any security vulnerabilities. [Report a security vulnerability.](https://patchstack.com/database/vdp/9e5fb656-5530-4192-9ef5-b6b005a27e7d)
 
 = How to predefine demo imports?  =
 
@@ -103,10 +106,12 @@ add_filter( 'hdi_import_files', 'hdi_import_files_array' );
 ?>
 </code>
 
-== Screenshots ==
-
  
 == Changelog ==
+= 1.3.6 - May 12, 2025
+* Readme.txt file updated
+* Typo error fixed
+
 = 1.3.5 - Apr 24, 2025
 * Demo added for Total Theme
 
